@@ -1,5 +1,5 @@
 name = "start-filings-mockup"
-main = "worker.js"
+main = "index.js" # <-- Change worker.js to index.js
 compatibility_date = "2025-12-05"
 
 [build]
