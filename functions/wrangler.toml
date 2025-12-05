@@ -1,7 +1,0 @@
-name = "start-filings-mockup"
-main = "index.js" # <-- Change worker.js to index.js
-compatibility_date = "2025-12-05"
-
-[build]
-command = ""
-output_dir = "public"
